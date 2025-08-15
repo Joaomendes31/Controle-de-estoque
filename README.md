@@ -7,50 +7,50 @@ Este projeto é um sistema completo de controle de estoque, desenvolvido para ge
 
 🛠 CRUD completo
 
- -Adicionar, editar, excluir e visualizar produtos
+- Adicionar, editar, excluir e visualizar produtos
 
 - Gerenciar categorias de produtos
 
 📊 Controle de estoque
 
-Visualizar quantidade atual de produtos
+- Visualizar quantidade atual de produtos
 
-Registrar entradas e saídas
+- Registrar entradas e saídas
 
 🎨 Interface gráfica com Tkinter
 
-Telas amigáveis e organizadas
+- Telas amigáveis e organizadas
 
-Navegação fácil entre produtos, categorias e estoque
+- Navegação fácil entre produtos, categorias e estoque
 
 💾 Banco de dados SQLite
 
-Armazenamento seguro e persistente
+- Armazenamento seguro e persistente
 
-Consulta rápida de produtos e categorias
+- Consulta rápida de produtos e categorias
 
 🔐 Segurança básica
 
-Controle de acesso via login
+- Controle de acesso via login
 
-Possibilidade de implementação de hash de senha
+- Possibilidade de implementação de hash de senha
 
 🧠 Exemplos de Operações
 
-Adicionar um novo produto à categoria “Eletrônicos” com quantidade e preço
+- Adicionar um novo produto à categoria “Eletrônicos” com quantidade e preço
 
-Atualizar o estoque quando um produto é vendido
+- Atualizar o estoque quando um produto é vendido
 
-Remover produtos que não estão mais disponíveis
+- Remover produtos que não estão mais disponíveis
 
-Consultar rapidamente os produtos com baixa quantidade
+- Consultar rapidamente os produtos com baixa quantidade
 
 🛠 Tecnologias Utilizadas
 
-Python – Linguagem principal do projeto
+- Python – Linguagem principal do projeto
 
-Tkinter – Interface gráfica amigável
+- Tkinter – Interface gráfica amigável
 
-SQLite – Banco de dados leve e integrado
+- SQLite – Banco de dados leve e integrado
 
-Git & GitHub – Controle de versão e hospedagem do projeto
+
