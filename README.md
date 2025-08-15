@@ -7,9 +7,9 @@ Este projeto é um sistema completo de controle de estoque, desenvolvido para ge
 
 🛠 CRUD completo
 
-Adicionar, editar, excluir e visualizar produtos
+ -Adicionar, editar, excluir e visualizar produtos
 
-Gerenciar categorias de produtos
+- Gerenciar categorias de produtos
 
 📊 Controle de estoque
 
